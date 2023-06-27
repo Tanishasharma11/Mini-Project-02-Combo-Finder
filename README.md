@@ -1,6 +1,6 @@
 # Mini-Project-02
 
-# ComboFinder
+# `Combo Finder`
 
 ## Problem Statement:
 
